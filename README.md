@@ -22,8 +22,7 @@ FLOW CHART
 ## Object and Properties
 
 | **Dog** |
-| ------ | ------ |
-| name | bla bla bla |
-| owner | bla bla bla |
-| hair | bla bla bla |
- 
+| ------ | 
+| name |
+| owner |
+| hair |
