@@ -10,3 +10,9 @@ def main () -> None:
     # read data from database
     with open("./database/data.json") as file:
         data = json.load(file)
+    
+    # take user input
+    
+    # write imput
+
+    # compares dog into challenge
