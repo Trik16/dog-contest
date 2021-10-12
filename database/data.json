@@ -1,0 +1,22 @@
+{
+    "races": [
+      {  
+        "species": "Shepard",
+        "size": "Big",
+        "speed": 3,
+        "QI": 23
+    },
+    {
+        "species": "German Shepard",
+        "size": "Big",
+        "speed": 3,
+        "QI": 45
+      },
+      {
+        "species": "Australian Shepard",
+        "size": "Big",
+        "speed": 3,
+        "QI": 56
+      }
+    ]
+  }
