@@ -13,6 +13,8 @@ def main () -> None:
     
     # take user input
     
-    # write imput
+    # dog on challenge
+    dogs = []
+    for dog in data["dogs"]:
 
-    # compares dog into challenge
+    # compares dog in challenge
